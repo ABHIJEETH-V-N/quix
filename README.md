@@ -1,3 +1,5 @@
+<img src="banner.svg">
+
 # QUIX 
 <img src="icon.png">
 
