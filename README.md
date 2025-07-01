@@ -2,6 +2,7 @@
 
 # QUIX 
 <img src="icon.png">
+
 ## Inspiration
 
 Modern UI design is everywhere, but gathering actionable feedback on specific interface elements is still clunky and slow. We wanted a tool that makes it effortless to collect targeted, visual feedback on any app or website UI—without the need for servers, accounts, or complex setup. QUIX was born to empower designers, developers, and teams to get quick, focused ratings on real UI screenshots, all in a beautiful, glassmorphic desktop app.
